@@ -26,3 +26,7 @@
 .byebug_history
 
 config/ENV/*
+
+db/REDIS/*
+log/redis.log
+log/sidekiq.log
