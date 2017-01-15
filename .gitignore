@@ -30,3 +30,5 @@ config/ENV/*
 db/REDIS/*
 log/redis.log
 log/sidekiq.log
+
+db/SPHINX/*
